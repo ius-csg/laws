@@ -96,9 +96,7 @@ of the officers are as follows:
     other meetings and events.
   - Vice President – Preside at
     meetings of the club and the Executive Committee in the absence of
-    the president. Oversee the activities of all club committees. The
-    Vice President shall also serve as the chairperson of the Affiliates
-    committee (Article 5, section 1). The Vice President shall also be
+    the president. Oversee the activities of all club committees. The Vice President shall also be
     responsible for the orientation of new members.
   - Secretary – Record and
     produce minutes of all meetings. Coordinate the club’s
@@ -136,12 +134,6 @@ committees of this club shall be:
     Provides strategic vision for the club. Determines Committee
     assignments. Acts of the behalf of the club during the
     summer.
-  - Affiliates Committee –
-    Consists of the presidents from all official affiliated
-    organizations of the Club and the President and Vice President of
-    the club. Sets the joint vision and goals for official affiliated
-    organizations. Acts as a communications channel between the
-    groups
   - Event Committee – Handles
     all planning and arrangements for social, education, and
     informational events held by the club, including joint events.
@@ -181,57 +173,7 @@ constitution.
 
 
 
-## Article VII: Affiliated Organizations
-
-
-
-Section 1: Any
-registered student group at Indiana University Southeast may apply to
-become an official affiliated organization (OAO).
-
-
-
-Section 2: Upon a
-two-thirds approval from the voting membership during a meeting at which
-quorum is present, an organization shall gain OAO status. In order to
-maintain OAO status, an organization shall complete the following
-tasks:
-
-1.  Maintain active registered status with IUS
-2.  At least one officer of the OAO attends all
-    meetings of the club
-3.  Co-host at least one event during the academic year
-    with either another OAO or with the club
-4.  Both groups must pass a majority vote to remain
-    affiliates annually 
-
-
-
-Section 3: At a minimum,
-the OAO shall have access to the following benefits:
-
-1.  Access to utilize space and equipment owned by the
-    club
-2.  Voting membership in the club for all OAO
-    officers
-3.  Opportunity to co-host events and activities with
-    the club
-4.  One officer of CSG in attendance at each of their
-    meetings
-5.  Any other benefits approved by the Executive
-    Committee and Affiliates Committee
-
-
-
-Section 4: Failure to
-complete the tasks of article 7, section 2 shall result in loss of OAO
-status. An OAO may also lose OAO status by a two-thirds approval from
-the voting membership and two-thirds approval from the Affiliates
-Committee.
-
-
-
-## Article VIII: By-Laws
+## Article VII: By-Laws
 
 
 
@@ -241,7 +183,7 @@ vote of those present at the meeting when a quorum is present.
 
 
 
-## Article IX: Amending
+## Article VIII: Amending
 
 
 
@@ -260,11 +202,11 @@ adoption of such amendments.
 
 
 
-## Article X: Amendments
+## Article IX: Amendments
 
 
 
-## Article XI: Interpretation
+## Article X: Interpretation
 
 
 
