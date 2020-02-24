@@ -45,14 +45,7 @@ it exists, to the Vice President.
 
 
 
-Section 3: Should there
-exist any affiliate organizations, as described in Article 7, the
-officers of those organizations shall be considered part of the voting
-membership.
-
-
-
-Section 4: Any
+Section 3: Any
 member/officer may be removed from office and/or the club for misconduct
 as defined in the bylaws of CSG. The member/officer shall be given seven
 days notice and an opportunity to give a defense. This removal shall
@@ -121,7 +114,7 @@ of the officers are as follows:
     or Maintain the social media presence of the group. Recruit new
     members to the group.
 
-* This include but is not limited to hardware, software, licenses, rooms, etc
+\* This include but is not limited to hardware, software, licenses, rooms, etc
 
 
 ## Article V: Committees
