@@ -1,0 +1,1 @@
+# The Computer Science Group Code of Conduct 
